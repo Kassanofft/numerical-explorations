@@ -23,7 +23,7 @@
 | Central difference | 2.00 | $O(h^2)$ |
 
 ## Plot
-![Convergence plot](Finite_Difference_Plot(1).png)
+![Convergence plot](Finite_Difference_Plot.png)
 
 ## Observations
 Both schemes match their expected rate. 
